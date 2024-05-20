@@ -1,0 +1,9 @@
+1. LCD (Liquid Crystal Display) bekerja dengan memanfaatkan sifat cairan kristal untuk mengontrol transmisi cahaya. Cahaya dari backlight melewati lapisan polarizer pertama. Tegangan yang diterapkan pada elektroda mengubah orientasi molekul cairan kristal, yang memutar polarisasi cahaya yang lewat. Cahaya ini kemudian melewati polarizer kedua dan filter warna, menghasilkan piksel-piksel berwarna yang membentuk gambar yang terlihat di layar.
+2. LED (Light Emitting Diode) bekerja dengan memanfaatkan prinsip elektroluminesensi, di mana dua lapisan semikonduktor tipe P dan N bertemu. Ketika arus listrik mengalir melalui LED, elektron dari lapisan N dan hole dari lapisan P bertemu di daerah junction, melepaskan energi dalam bentuk foton (cahaya). Cahaya ini dipancarkan dengan warna yang tergantung pada material semikonduktor yang digunakan. LED menghasilkan cahaya terang dan efisien dengan konsumsi daya yang rendah.
+3. Pemrograman sistem tertanam digunakan dalam:
+- Microwave (Mengetahui tingkat kematangan makanan)
+- Kendaraan bermotor (Sistem pengereman anti-lock (ABS))
+- Sensor lampu jalan
+- Fitness Tracker
+- Penyemprotan tanaman otomatis berdasarkan kelembaban tanah
+4. Project yang akan kami buat yaitu pengangkat jemuran otomatis, jadi nanti kita akan menggunakan motor untuk mengangkat jemuran tersebut, dan untuk sensornya akan menggunakan sensor untuk kebasahan agar nanti ketika turun hujan jemuran akan otomatis terangkat. selain itu kontrol pengangkat jemuran tersebut rencananya juga bisa dikontrol menggunakan smartphone.
